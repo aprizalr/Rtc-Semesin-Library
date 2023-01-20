@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For RTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RTC_Semesin	KEYWORD1
+DateTime	KEYWORD1
+RTC_DS1307	KEYWORD1
+RTC_Millis	KEYWORD1
+Ds1307SqwPinMode	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+tahun	KEYWORD2
+bulan	KEYWORD2
+tanggal	KEYWORD2
+jam	KEYWORD2
+menit	KEYWORD2
+detik	KEYWORD2
+hari	KEYWORD2
+dayOfTheWeek	KEYWORD2
+secondstime	KEYWORD2
+unixtime	KEYWORD2
+begin	KEYWORD2
+adjust	KEYWORD2
+isrunning	KEYWORD2
+now	KEYWORD2
+readSqwPinMode	KEYWORD2
+writeSqwPinMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
